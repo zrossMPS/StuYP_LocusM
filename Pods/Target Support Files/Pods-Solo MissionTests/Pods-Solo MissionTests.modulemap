@@ -1,0 +1,6 @@
+framework module Pods_Solo_MissionTests {
+  umbrella header "Pods-Solo MissionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

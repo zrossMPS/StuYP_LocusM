@@ -1,0 +1,16 @@
+Copyright © Yubin Park - Locus M
+
+General Description:
+Join the potential millions of people who will be entertained through Locus M！ Expand your imagination by pdlaying this game manipulating the rocket to destroy the enemy and continue your space journey. By clicking the rocket and shooting bullets, users will be entertained not only by aiming for higher scores, but also by the fun stress relieving bombing sounds of the bullet and the rocket. 
+
+
+How To Play:
+1. When you start the app, you will start your space journey right away.
+2. By clicking the rocket the user will be able to shoot bullets towards the enemy.
+3. The user can control the rocket by dragging the rocket to left or right. 
+4. The rocket only moves left or right and automatically goes forward.
+5. If the enemy escapes out of the zone, the users will lose 1 life.
+6. If the user get hits by an enemy, the game will automatically end and display "GAME OVER".
+
+FYI for checking this app:
+When you are testing this app, you must click the "Solo Mission(NEW!).workspace" file. 
